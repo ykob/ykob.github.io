@@ -1,4 +1,3 @@
-ykob.github.io
-==============
+# YOICHI KOBAYASHI
 
-github pages
+[http://www.tplh.net/](http://www.tplh.net/)
