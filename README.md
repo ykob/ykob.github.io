@@ -1,6 +1,5 @@
-# yoichi kobayashi
+# Yoichi Kobayashi
 
-1984生。  
-東京でhtmlとcssとjavascriptを書いてご飯を食べているっぽい。
+I work as a frontend developer in Tokyo. Working at http://tsumikiinc.com. If you have any requests for creative coding work, please message info@tplh.net.
 
 [http://www.tplh.net/](http://www.tplh.net/)
